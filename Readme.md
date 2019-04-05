@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/WpfSpreadsheet_DataBinding/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WpfSpreadsheet_DataBinding/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/WpfSpreadsheet_DataBinding/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfSpreadsheet_DataBinding/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/WpfSpreadsheet_DataBinding/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfSpreadsheet_DataBinding/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to bind a grid control to the worksheet data (WPF Spreadsheet)
